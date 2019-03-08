@@ -5,4 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-To be updated.
+Main research interests
+======
+astrostatistics, topological data analysis, approximate Bayesian computation, generalized fiducial inference, foundations of statistics
+
+
+
+Current application interests
+======
+cosmology (large-scale structure, Lyman-alpha forest), exoplanets, stellar initial mass function
+
