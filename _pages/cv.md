@@ -27,6 +27,6 @@ Professional experience
 * Visiting assistant professor, Department of Statistics, Carnegie Mellon University, Pittsburgh,
 PA, August 2012 - May 2015
 * Graduate student fellow, Statistical and Applied Mathematical Sciences Institute (SAMSI), Research Triangle Park, NC, 2011 - 2012
-* Research assistant, Department of Statistics and Operations Research, University of North Car- olina at Chapel Hill, Spring 2010, Summer 2010, Spring 2011, Summer 2011
+* Research assistant, Department of Statistics and Operations Research, University of North Carolina at Chapel Hill, Spring 2010, Summer 2010, Spring 2011, Summer 2011
 * Actuarial Assistant, Allstate Insurance Company, Northbrook, Illinois, August 2005 - August 2007 (passed Casualty Actuarial Society Exams 1 through 5)
   
