@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-{{ https://jessicisewskikehe.github.io }}/files/cisewski_cv.pdf
+[CV](https://jessicisewskikehe.github.io/files/cisewski_cv.pdf)
 
 
 Education

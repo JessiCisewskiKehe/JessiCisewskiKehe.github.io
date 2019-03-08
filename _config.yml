@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jessi Cisewski Kehe"
 title_separator          : "-"
 name                     : &name "Jessi Cisewski Kehe"
-description              : &description "Welcome!"
+description              : &description "Welcome!  This website is currently under construction.  Please check back soon!"
 url                      : https://jessicisewskikehe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessicisewskikehe.github.io"
@@ -94,7 +94,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
