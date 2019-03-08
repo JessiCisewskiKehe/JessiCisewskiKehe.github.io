@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Main research interests
-======
+## Main research interests
+
 astrostatistics, topological data analysis, approximate Bayesian computation, generalized fiducial inference, foundations of statistics
 
 
