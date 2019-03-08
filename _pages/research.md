@@ -16,4 +16,4 @@ Cosmology (large-scale structure, Lyman-alpha forest), exoplanets, stellar initi
 
 
 
-*Motto:  aut viam inveniam aut faciam*
+Motto:  *aut viam inveniam aut faciam*
