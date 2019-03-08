@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jessi Cisewski Kehe"
 title_separator          : "-"
 name                     : &name "Jessi Cisewski Kehe"
-description              : &description "Welcome!  This website is currently under construction.  Please check back soon!"
+description              : &description "Welcome!"
 url                      : https://jessicisewskikehe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jessicisewskikehe.github.io"
@@ -68,7 +68,7 @@ analytics:
 author:
   name             : "Jessi Cisewski Kehe"
   avatar           : "jessi2014.jpg"
-  bio              : "Assistant professor in the Dept. of Statistics & Data Science, Yale University"
+  bio              : "Assistant professor, Dept. of Statistics & Data Science, Yale University"
   location         : "New Haven, CT"
   employer         :
   pubmed           : 
@@ -169,17 +169,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -200,6 +189,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # media
+  - scope:
+      path: ""
+      type: media
     values:
       layout: single
       author_profile: true
