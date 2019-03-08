@@ -15,3 +15,6 @@ Current application interests
 ======
 cosmology (large-scale structure, Lyman-alpha forest), exoplanets, stellar initial mass function
 
+
+
+Motto:  aut viam inveniam aut faciam
