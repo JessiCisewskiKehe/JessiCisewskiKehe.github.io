@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Please visit my [Google Scholar](https://scholar.google.com/citations?user=YyatADcAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-9656-2272) pages for a list of my publications.
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=YyatADcAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-9656-2272) pages for a list of my publications.
 
 
 ## Main research interests
