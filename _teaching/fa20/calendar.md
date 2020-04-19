@@ -3,7 +3,7 @@ title: "STAT 240 Introduction to Data Modeling I"
 collection: teaching
 type: "4 credits"
 permalink: /teaching/2020-fall-teaching-1
-venue: "University of Wisconsin - Madison"
+venue: "Dept. of Statistics, UW-Madison"
 date: 2020-09-01
 location: "Madison, WI, USA"
 ---
