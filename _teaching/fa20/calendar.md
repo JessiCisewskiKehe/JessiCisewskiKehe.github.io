@@ -1,7 +1,10 @@
-++<link rel="stylesheet" href="theme/css/main.css" />
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-![noisy Y](./noiseY-150.png)
+---
+title: "TBD"
+collection: teaching
+permalink: /teaching/2020-fall-teaching-1
+venue: "UW-Madison, Statistics"
+date: 2020-01-01
+---
 
 
 YData: An Introduction to Data Science 
