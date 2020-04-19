@@ -2,23 +2,19 @@
 title: "TBD"
 collection: teaching
 permalink: /teaching/2020-fall-teaching-1
-venue: "UW-Madison, Statistics"
-date: 2020-01-01
 ---
 
 
-YData: An Introduction to Data Science 
+STAT 240 Introduction to Data Modeling I (4 cr)
 ====
 
-YData is an introduction to the fundamental ideas and skills of data science.
-Based on Berkeley's popular [Data 8](http://data8.org) course, YData is an introduction to data science that emphasizes
-computational and programming skills along with inferential thinking.
+Add description
 
 
-Calendar Spring 2020
+Calendar Fall 2020
 ---
-Instructor: Jessi Cisewski-Kehe<br>
-Lecture: MWF 10:30-11:20, [SSS 114](https://map.yale.edu/place/building/SSS)
+Instructor: Jessi Kehe<br>
+Lecture: T/TH 4 - 5:15 PM, [B130 Van Vleck Hall](https://map.wisc.edu/?initObj=0048)
 
 
 
