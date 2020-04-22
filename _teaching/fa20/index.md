@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://jessicisewskikehe.github.io/teaching/fa20/calendar.html"
+redirect_to: "https://jessicisewskikehe.github.io/teaching/2020-fall-teaching-1"
 ---
