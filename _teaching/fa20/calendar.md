@@ -23,5 +23,5 @@ Lecture: T/TH 4 - 5:15 PM, [B130 Van Vleck Hall](https://map.wisc.edu/?initObj=0
  Date |  Topic | Lecture | Reading | Assignment
 ----------- | ------------- | ------------ | ------------- | -----------
 Thur 9/3 |      Introduction| Demos, Slides |           |
-/* */
+<!-- -->
 Tues 9/8 |      TBD | Demos, Slides |           |
