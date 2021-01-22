@@ -21,8 +21,9 @@ Education
 
 Professional experience
 ======
-* Assistant Professor, Department of Statistics, Yale University, New Haven, CT, July 2015 - present
-* Secondary Appointment, Department of Astronomy, Yale University, New Haven, CT, September 2016 - present
+* Assistant Professor, Department of Statistics, University of Wisconsin, Madison, WI, July 2020 - present
+* Assistant Professor, Department of Statistics and Data Science, Yale University, New Haven, CT, July 2015 - June 2020
+* Secondary Appointment, Department of Astronomy, Yale University, New Haven, CT, September 2016 - June 2020
 * Research Scientist, Department of Statistics, Yale University, New Haven, CT, June 2015
 * Visiting assistant professor, Department of Statistics, Carnegie Mellon University, Pittsburgh,
 PA, August 2012 - May 2015
